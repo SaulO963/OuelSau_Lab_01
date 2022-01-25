@@ -1,16 +1,12 @@
-/**
- * Name: Saul Ouellet
- * Date: January 18th 2022
- * Description: Simple hello world project to get everything working! Also a small amount of playing
- *              around with scanners and arrays just for fun.
- */
-
 package Lab;
 
 import java.util.Scanner;
 
 /***
- *  This is the Main class.
+ * Name: Saul Ouellet
+ * Date: January 18th 2022
+ * Description: Simple hello world project to get everything working! Also a small amount of playing
+ *              around with scanners and arrays just for fun.
  */
 
 public class Main {
